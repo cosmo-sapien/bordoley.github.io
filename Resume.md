@@ -24,32 +24,34 @@ A technical manager obsessed with delivering beautiful products that customers l
 * Engineered and designed a never-beendone-before piece of technology, built the interior components and an innovative water-resistant hinge mechanism using Solidworks.
 * Responsible for market and material research, branding the company's “stylish utility” design approach, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photo realistic renderings using Keyshot and Photoshop.
 
-*December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, Sabi...)
+*December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, MoMA Exhibit piece, Sabi...)
 
-* Involved in every aspect of design process.
-* Owner of the technical relationship between Amazon and our telecom partners AT&T, Verizon, T-Mobile and Sprint.
-* Authored internal technical documents for engineers outlining carrier webservice API flows for implementing key wireless shopping transactions.
-* Architected the replacement AmazonWireless item catalog to take advantage standard Amazon systems including the retail catalog and search, replacing a custom and non-scalable solution.
-* Launched realtime SMS verification for wireless upgrade transactions.
-* Led the migration of AmazonWireless services to EC2.
+* Involved in every aspect of design process for various projects especially Soda Stream Source.
+* Responsible for all Solidworks modeling work of San Francisco studio.
+* Architected a MoMA Exhibit for One Laptop Per Child Project.
+* Responsible for final renderings for Nivea's updated packaging and Sabi pill bottles.
 
-*June, 2007 - December, 2009* : **T-mobile, Sr. System Design Engineer** (Web Applications)
+*September, 2010 - May, 2011* : **Research In Motion (BlackBerry), Innovation Concept Partner** (Wearable Technology)
 
-* Lead system design engineer for the T-Mobile Album mobile photo sharing service.
-* Successfully launched the MobileLife web portal on a highly aggressive schedule.
-* Developed technical specifications for the T-Mobile Album RESTful web service API based upon the Atom Publication Protocol, OpenSearch 1.1 and MediaRSS 1.2, and worked closely with the third party vendor to implement the service.
-* Co-author of T-Mobile internal AJAX web application standards and best practices documentation.
+* Produced a highly praised design concept for BlackBerry smart phones.
+* Successfully analyzed the client’s expectations in the area of ‘design for travel’ as well as completing
+an extensive research on the current demands of the market.
+* Developed a wearable technology concept, updating a traditional travel element such as souvenir with near field communication technology.
+* Innovated necessary system design for organizing data and experience.
+* Designed authentic jewelry pieces for different cities, applying an extensive knowledge of culture and esthetics from 20+ countries visited as well as the data gathered from test users.
 
-*December, 2005 - June, 2007* : **T-Mobile, System Design Engineer** (Picture Messaging)
+*May, 2010 - Sept, 2010* : **Karim Rashid Inc., Industrial Design Intern** (Alessi, Tonelli, Bobble, USAcrylic, Nooka, Larms, Vitamin Water, Berlin Nhow Music Hotel, MOD Design Museum Retrospective)
 
-* Subject matter expert in all aspects of 3GPP multimedia messaging (MMS) interfaces and protocols (MM1, MM3, MM4 and MM7).
-* Launched the IM2MMS service allowing bi-directional multimedia messaging from AOL Instant Messenger to T-Mobile handsets over MMS.
-* Developed and executed a full migration plan to migrate all traffic from an existing legacy system to a geo-redundant MMSC.
+* Mastered Solidworks surface modeling abilities as well as rendering programs such as Keyshot.
+* Discovered all aspects of real life implementation of design education. 
+* Conceptualized, sketched, modelled, rendered and delivered plethora of projects through the course of internship. 
+* Aided interior design work for Berlin Nhow Hotel.
+* Curated Karim Rashid retrospective for the MOD Design Museum in Russia.
 
 ## Education
-*2009 - 2014* : **MS, Computer Science**; University of Washington (Seattle, Wa)
+*2007 - 2011* : **BA, Industrial Design**; Carleton University (Ottawa, ON)
 
-*2003 - 2005* : **MS, Electrical Engineering**; University of Washington (Seattle, Wa)
+*2005 - 2007* : **BA, Industrial Design**; Yeditepe University (Istanbul, TR)
 
 *1998 - 2002* : **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
 
