@@ -58,14 +58,24 @@ an extensive research on the current demands of the market.
 *2001 - 2005* : **HS, Science**; American Collegiate Institute (Izmir, TR)
 
 ## Technical Skills
-* Programming Languages: 
-  * Experienced user of C#, F#, and Java.
-  * Some experience using Objective-C, C, C++, Scala, OCaml and Dart.
-  * Significant experience utilizing functional and reactive programming techniques to develop elegant and terse solutions to complex problems.
-* Networking fundamentals: OSI network model, TCP/IP.
-* Expert knowledge of the HTTP protocol application layer and utilizing it to implement RESTful APIs.
-* Mobile development using Xamarin for Android and iOS.
+* Modeling Programs: 
+  * Absolute mastery in Solidworks, Keyshot and Hypershot.
+  * Trained in 3D Studio Max, AutoCAD, Rhino.
+* Expert knowledge of Adobe Photoshop, Illustrator, InDesign.
+* Microsoft Word, Excel and Power Point, Keynote.
+* Mold making, wood, metal and plaster shop education and experience, modeling experience from
+foam to CNC machine.
+* Owned and operated 3D printers.
+* Sketching, Drawing, Electronic Drawing, Technical Drawings, Painting
+* Interface Design
+* System Design
+* Graphic Design
+* Exhibition Design
+* Photography
 
 ## Open Source
-* Maintainer of [SQLitePCL.pretty](https://github.com/bordoley/SQLitePCL.pretty) - A .NET wrapper for SQLite that provides an object oriented API built upon LINQ and the RX extensions that is familiar and easy to use by C# developers.
-* Currently developing [FunctionalHttp](https://github.com/bordoley/FunctionalHttp) - A .NET API written in F# that provides developers an immutable data model for creating and manipulating HTTP requests and responses, along with a fully asynchronous API for implementing HTTP clients and servers using F# asynchronous computations.
+* Excellent public speaking and presentation skills
+* Dedicated problem solver for interpersonal or project related issues
+* Avid researcher
+* Writing experience for public media, advertisement, screen
+* Polymath nature 
