@@ -3,14 +3,14 @@ Email: ecedeniztoros@gmail.com
 Website : https://ecedeniztoros.com
 
 ## Overview
-A technical manager obsessed with delivering beautiful products that customers love to use.
+An industrial designer with burning passion for invention, meaning and connectivity in all (she creates).
 
-* A leader with experience delivering projects on time using agile scrum development methodologies.
-* Experienced in developing iterative processes that include product management, UX, and engineering teams throughout design and development.
-* Strong appreciation for design aesthetics and usability.
-* Deep understanding of software development best practices.
-* Life long ambition to learn and be ahead of the technology curve.
-* A strong mentor that enjoys helping others develop their careers.
+* A visionary with experience delivering projects on time with exceeded expectations.
+* Experience at top design agencies in USA.
+* Obsessed with creating magical products in both their esthetic and utilitarian value (from research to creation to presentation).
+* Deep understanding of product design best practices.
+* Life long ambition to help shape a wiser future.
+* Extraordinary associative thinking skills deliver well thought of, innovative results.
 
 ## Experience
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
@@ -73,9 +73,9 @@ foam to CNC machine.
 * Exhibition Design
 * Photography
 
-## Open Source
+## Related Skills
 * Excellent public speaking and presentation skills
 * Dedicated problem solver for interpersonal or project related issues
 * Avid researcher
 * Writing experience for public media, advertisement, screen
-* Polymath nature 
+* Polymath nature
