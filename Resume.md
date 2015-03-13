@@ -53,9 +53,9 @@ an extensive research on the current demands of the market.
 
 *2005 - 2007* : **BA, Industrial Design**; Yeditepe University (Istanbul, TR)
 
-*1998 - 2002* : **BS with High Honors, Electrical Engineering**; Michigan State University (East Lansing, MI)
+*2006* : **Certificate, Autodesk**; Bilge Adam Academy of Information Technology (Istanbul, TR)
 
-*1998 - 2002* : **BS with High Honors, Computer Engineering**; Michigan State University (East Lansing, MI)
+*2001 - 2005* : **HS, Science**; American Collegiate Institute (Izmir, TR)
 
 ## Technical Skills
 * Programming Languages: 
