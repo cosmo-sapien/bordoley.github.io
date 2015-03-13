@@ -13,26 +13,20 @@ A technical manager obsessed with delivering beautiful products that customers l
 * A strong mentor that enjoys helping others develop their careers.
 
 ## Experience
-*May, 2014 - Present* : **Amazon.com, Technical Program Manager** (Items and Offers Pipeline)
+*October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
-* Program and project manager for the Amazon.com catalog team.
-* Responsible for driving all major initiatives related to the Amazon catalog for all business units including Amazon retail, Digital and 3rd party sellers.
-* Primary point of contact for all teams at Amazon integrating with the Amazon catalog.
-* Team scrum master.
+* Created a collection of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to The collection is titled "Doors of Perception".
+* Responsible for conceptualizing, engineering, 3D modeling, rendering door concepts as well as giving interviews to press about personal and project specific design philosophy.
 
-*June, 2012 - May, 2014* : **Amazon.com, Software Development Manager** (Cloud Drive Desktop Client for Mac and Windows)
+*November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
-* Led a team of six developers and two QA engineers in building and delivering the Amazon Cloud Drive desktop client for Mac and Windows, from scratch and through multiple iterations.
-* Worked closely with product development, design and usability teams to define the customer experience and slice functionality into useful independent releases.
-* Established an agile scrum process for the team that closely integrated design and product management in the development process.
-* Implemented a behavior driven development (BDD) process where agile acceptance criteria defined by product management are directly mapped to continuous integration tests.
-* Set high engineering standards for the team including greater than 80% unit test coverage, greater than 80% automated integration test coverage, extensive instrumentation for collecting business and operational metrics, and remote configuration.
-* Encouraged the adoption of modern development techniques and technologies for improved developer productivity, including dependency injection, MVVM user interface design, and asynchronous programming using the C# Task Parallel Library, Reactive Extensions, ReactiveUI and Reactive Cocoa.
-* Lead developer on the initial release of both the Mac and Windows clients.
+* Worked as the lead industrial designer to create a unique piece of wearable electronic which charges your smart phone on the go.
+* Engineered and designed a never-beendone-before piece of technology, built the interior components and an innovative water-resistant hinge mechanism using Solidworks.
+* Responsible for market and material research, branding the company's “stylish utility” design approach, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photo realistic renderings using Keyshot and Photoshop.
 
-*January, 2010 - June, 2012*: **Amazon.com, Technical Program Manager** (AmazonWireless)
+*December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, Sabi...)
 
-* Launched AmazonWireless in 2010.
+* Involved in every aspect of design process.
 * Owner of the technical relationship between Amazon and our telecom partners AT&T, Verizon, T-Mobile and Sprint.
 * Authored internal technical documents for engineers outlining carrier webservice API flows for implementing key wireless shopping transactions.
 * Architected the replacement AmazonWireless item catalog to take advantage standard Amazon systems including the retail catalog and search, replacing a custom and non-scalable solution.
