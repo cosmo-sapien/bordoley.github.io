@@ -7,7 +7,7 @@ An industrial designer with burning passion for invention, meaning and connectiv
 
 * A visionary with experience delivering projects on time with exceeded expectations.
 * Experience at top design agencies in USA.
-* Obsessed with creating magical products in both their esthetic and utilitarian value (from research to creation to presentation).
+* Obsessed with creating magical products in both their esthetic and utilitarian value; from research to creation to presentation.
 * Deep understanding of product design best practices.
 * Life long ambition to help shape a wiser future.
 * Extraordinary associative thinking skills deliver well thought of, innovative results.
