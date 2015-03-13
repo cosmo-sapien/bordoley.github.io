@@ -1,6 +1,6 @@
-# David Bordoley 
-Email: bordoley@gmail.com  
-Website : https://github.com/bordoley/
+# Ece Deniz Toros 
+Email: ecedeniztoros@gmail.com  
+Website : https://ecedeniztoros.com
 
 ## Overview
 A technical manager obsessed with delivering beautiful products that customers love to use.
