@@ -15,8 +15,8 @@ An industrial designer with burning passion for invention, meaning and connectiv
 ## Experience
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
-* Created a collection of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to The collection is titled "Doors of Perception".
-* Responsible for conceptualizing, engineering, 3D modeling, rendering door concepts as well as giving interviews to press about personal and project specific design philosophy.
+* Created a collection of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception".
+* Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of door concepts as well as giving interviews to press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
