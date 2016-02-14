@@ -3,19 +3,19 @@ Email: ecedeniztoros@gmail.com
 Website : https://ecedeniztoros.com
 
 ## Overview
-An industrial designer with burning passion for beauty, invention, meaning, poetry and connectivity in all (she creates).
+An industrial designer with burning passion for beauty, invention, poetic meaning and connectivity in all (she creates).
 
 * A visionary with experience delivering projects on time with exceeded expectations.
-* Experience at top design agencies.
+* Experience at top design agencies and innovative companies.
 * Obsessed with creating magical products in both their esthetic and utilitarian value: from research, to creation, to presentation.
 * Deep understanding of product design's best practices.
 * Life long ambition to help shape a wiser future.
 * Extraordinary associative thinking skills deliver well thought of, innovative results.
 
 ## Experience
-*September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Showroom)
+*September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
-* Created sculptures to be Created a collection of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception".
+* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be displayed in company's soon to be opened new showroom in Istanbul. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different stones and experience in the industry in order to give birth to moving marble art and design.  The collection is titled "Doors of Perception".
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of door concepts and interviewing with the press about personal and project specific design philosophy.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
