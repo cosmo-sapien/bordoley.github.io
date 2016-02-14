@@ -19,7 +19,7 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Created sculptures, furniture and other marble objects as well as marble tiles and textures to be exhibited in company's soon to be opened new showroom in Istanbul. 
 * These pieces are designed with mass and custom production in mind, as an examplary display for the customers who are interested in identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. 
 * Working with an ancient and historically used material such as marble in order to realize works which are relavent to our times and representative of present human experience was the main motivation. 
-* Pieces created were mostly inspired by the varying natural patterns, translucency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, the semi-transparent marble is illuminated from inside and likened to gem stones or crystals to point out that marble is a metamorphic mineral rock formation which is essentially a marvel of nature and some marble is even considered a semi-precious stone.
+* Pieces created were mostly inspired by the varying natural patterns, transparency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, translucent semi-precious stone marble is illuminated from inside and likened to gem stones or crystals to point out the marvel of this natural metamorphic rock.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
@@ -31,14 +31,15 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
 * Worked as the sole industrial designer and design engineer to create a unique piece of wearable electronic accessory which charges your smart phone on the go.
-* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics. The hinge mechanism was patented in company's name and it is an important invention.
+* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics. The hinge mechanism was patented in company's name and is considered a break through invention.
 * Responsible for market and material research, branding the company's “stylish utility” design philosophy, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photo realistic renderings using Keyshot and Photoshop.
-* QBracelet is the recipient of Golden A' Design Award in Wearable Technologies Design Category
+* QBracelet is the recipient of Golden A' Design Award 2015 in Wearable Technologies Design Category.
 
 *December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, MoMA Exhibit piece, Sabi...)
 
-* Involved in every aspect of design process for various projects, especially Soda Stream Source and Jawbone Up Bracelet.
+* Involved in every aspect of design process for various projects, especially Soda Stream Source and Jawbone Up Bracelet and Nivea packaging.
 * Responsible for all Solidworks modeling work of San Francisco studio.
+* Produced almost all rendering work of Nivea and Sabi.
 * Architected a MoMA Exhibit for One Laptop Per Child Project.
 
 *September, 2010 - May, 2011* : **Research In Motion (BlackBerry), Innovation Concept Partner** (Wearable Technology)
@@ -49,12 +50,12 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Innovated necessary system design for organizing data and experience.
 * Designed authentic jewelry pieces for different cities, applying an extensive knowledge of culture and esthetics from 20+ countries visited as well as the data gathered from test users.
 
-*May, 2010 - Sept, 2010* : **Karim Rashid Inc., Industrial Design Intern** (Alessi, Tonelli, Bobble, USAcrylic, Nooka, Larms, Vitamin Water, Berlin Nhow Music Hotel, MOD Design Museum Retrospective)
+*May, 2010 - Sept, 2010* : **Karim Rashid Inc., Industrial Design Intern** (Alessi, Tonelli, Bobble, USAcrylic, Larms, Berlin Nhow Music Hotel, MOD Design Museum Retrospective...)
 
 * Mastered Solidworks surface modeling abilities as well as rendering programs such as Keyshot.
 * Discovered all aspects of real life implementation of design education. 
 * Conceptualized, sketched, modelled, rendered and delivered a multitude of projects through the course of internship. 
-* Aided interior design work for Berlin Nhow Hotel.
+* Aided interior design work for Berlin Nhow Hotel and some other hospitality design work.
 * Curated Karim Rashid retrospective for the MOD Design Museum in Russia.
 
 ## Education
