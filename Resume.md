@@ -9,17 +9,17 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Experience at top design agencies and innovative companies.
 * Obsessed with creating magical products in both their esthetic and utilitarian value: from research, to creation, to presentation.
 * Deep understanding of product design's best practices.
-* Believes in the necessity of combining engineering, design, social sciences, philosophy, poetry and art in one's work and life.
+* Believes in the necessity of combining engineering, design, social sciences, philosophy, poetry and art in one's work and one's life.
 * Life long ambition and innate responsibility to help shape a wiser future.
 * Extraordinary associative thinking skills deliver well thought of, innovative results.
 
 ## Experience
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
-* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be permanently displayed inside company's soon to be opened new showroom in Istanbul. 
+* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be exhibited in company's soon to be opened new showroom in Istanbul. 
 * These pieces are designed with mass and custom production in mind, as an examplary display for the customers who are interested in identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. 
-* Using an ancient and historically used material such as marble in order to realize works which are relavent to our times and representative of present human experience was the main motivation for taking the job. 
-* Pieces created were mostly inspired by the varying natural patterns, translucency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, the semi-transparent marble is illuminated from inside and likened to gem stones or crystals to point out that some marble is considered semi-precious stone.
+* Working with an ancient and historically used material such as marble in order to realize works which are relavent to our times and representative of present human experience was the main motivation. 
+* Pieces created were mostly inspired by the varying natural patterns, translucency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, the semi-transparent marble is illuminated from inside and likened to gem stones or crystals to point out that marble is a metamorphic mineral rock formation which is essentially a marvel of nature and some marble is even considered a semi-precious stone.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
