@@ -15,12 +15,15 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 ## Experience
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
-* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be permanently displayed inside company's soon to be opened new showroom in Istanbul. These pieces are designed with mass or custom production in mind, as an examplary display for the customers who visit the showroom and would like identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. Using an ancient and historically used material such as marble in order to realize works which are relavent to our times and representative of present human experience was the main motivation for taking the job. Pieces created were mostly inspired by the varying natural patterns, translucency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflexting light dance in marble's glossy surface, giving the pieces life as the viewer moves around them. 
-* Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of door concepts and interviewing with the press about personal and project specific design philosophy.
+* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be permanently displayed inside company's soon to be opened new showroom in Istanbul. 
+* These pieces are designed with mass and custom production in mind, as an examplary display for the customers who are interested in identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. 
+* Using an ancient and historically used material such as marble in order to realize works which are relavent to our times and representative of present human experience was the main motivation for taking the job. 
+* Pieces created were mostly inspired by the varying natural patterns, translucency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, the semi-transparent marble is illuminated from inside and likened to gem stones or crystals to point out that some marble is considered semi-precious stone.
+* Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
-* Created a collection of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception".
+* Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception" with sub-collections with different titles, being released gradually. 
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of door concepts and interviewing with the press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
@@ -31,7 +34,7 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 
 *December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, MoMA Exhibit piece, Sabi...)
 
-* Involved in every aspect of design process for various projects, especially Soda Stream Source.
+* Involved in every aspect of design process for various projects, especially Soda Stream Source and Jawbone Up Bracelet.
 * Responsible for all Solidworks modeling work of San Francisco studio.
 * Architected a MoMA Exhibit for One Laptop Per Child Project.
 
