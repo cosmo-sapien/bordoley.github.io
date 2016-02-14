@@ -9,7 +9,8 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Experience at top design agencies and innovative companies.
 * Obsessed with creating magical products in both their esthetic and utilitarian value: from research, to creation, to presentation.
 * Deep understanding of product design's best practices.
-* Life long ambition to help shape a wiser future.
+* Believes in the necessity of combining engineering, design, social sciences, philosophy, poetry and art in one's work and life.
+* Life long ambition and innate responsibility to help shape a wiser future.
 * Extraordinary associative thinking skills deliver well thought of, innovative results.
 
 ## Experience
@@ -23,14 +24,16 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
-* Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception" with sub-collections with different titles, being released gradually. 
+* Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations as well as the connection, divine cycle and commanality between the micro and macro planes of existence. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception" with sub-collections with different titles, each one being released slowly.
+* Being the largest door manufacturer in the country with businesses all around Middle East and Europe already, Sur Doors asked for door designs which would be instant eye catchers when they are displayed in store windows and international fairs, so they can diversify their reach. They wanted to innovate with new materials, such as leather, while at the same time wanted to craft traditional materials with current techniquies. They wanted the concepts to be substantial in their manifesto so it is possible to generate interesting interviews for the media. Color palate for each door design  and many color options were generated. The works had to be eco-friendly and minimize the waste. 
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of door concepts and interviewing with the press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
-* Worked as the lead industrial designer to create a unique piece of wearable electronic which charges your smart phone on the go.
-* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics.
+* Worked as the sole industrial designer and design engineer to create a unique piece of wearable electronic accessory which charges your smart phone on the go.
+* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics. The hinge mechanism was patented in company's name and it is an important invention.
 * Responsible for market and material research, branding the company's “stylish utility” design philosophy, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photo realistic renderings using Keyshot and Photoshop.
+* QBracelet is the recipient of Golden A' Design Award in Wearable Technologies Design Category
 
 *December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, MoMA Exhibit piece, Sabi...)
 
