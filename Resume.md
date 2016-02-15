@@ -17,25 +17,25 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
 * Created sculptures, furniture and other marble objects as well as marble tiles and textures to be exhibited in company's soon to be opened new showroom in Istanbul. 
-* These pieces are designed with mass and custom production in mind, as an examplary display for the customers who are interested in identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. 
-* Working with an ancient and historically used material such as marble in order to realize works which are relavent to our times and representative of present human experience was the main motivation. 
-* Pieces created were mostly inspired by the varying natural patterns, transparency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, translucent semi-precious stone marble is illuminated from inside and likened to gem stones or crystals to point out the marvel of this natural metamorphic rock.
+* These pieces are designed with mass and custom production in mind, as an exemplary display for the customers who are interested in identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. 
+* Working with an ancient and historically used material such as marble in order to realize works which are relevant to our times and representative of present human experience was the main motivation. 
+* Pieces created were mostly inspired by the varying natural patterns, transparency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, translucent semi-precious stone marble is illuminated from inside and likened to gemstones or crystals to point out the marvel of this natural metamorphic rock.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
-* Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations as well as the connection, divine cycle and commanality between the micro and macro planes of existence. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception" with sub-collections with different titles, each one being released slowly.
-* Being the largest door manufacturer in the country with businesses all around Middle East and Europe already, Sur Doors asked for door designs which would be instant eye catchers when they are displayed in store windows and international fairs, so they can diversify their reach. They wanted to innovate with new materials, such as leather, while at the same time wanted to craft traditional materials with current techniquies. They wanted the concepts to be substantial in their manifesto so it is possible to generate interesting interviews for the media. Color palate for each door design  and many color options were generated. The works had to be eco-friendly and minimize the waste. 
-* Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of door concepts and interviewing with the press about personal and project specific design philosophy.
+* Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations as well as the connection, divine cycle and commonality between the micro and macro planes of existence. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. The collection is titled "Doors of Perception" with sub-collections with different titles, each one being released slowly.
+* Being the largest door manufacturer in the country with businesses all around Middle East and Europe already, Sur Doors asked for door designs which would be instant eye catchers when they are displayed in store windows and international fairs, so they can diversify their reach. They wanted to innovate with new materials, such as leather, while at the same time wanted to craft traditional materials with current techniques. They wanted the concepts to be substantial in their manifesto so it is possible to generate interesting interviews for the media. Color palate for each door design  and many color options were generated. The works had to be eco-friendly and minimize the waste. 
+* Responsible for conceptualizing, engineering, 3D modeling, creating photorealistic renderings of door concepts and interviewing with the press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
-* Worked as the sole industrial designer and design engineer to create a unique piece of wearable electronic accessory which charges your smart phone on the go.
-* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics. The hinge mechanism was patented in company's name and is considered a break through invention.
-* Responsible for market and material research, branding the company's “stylish utility” design philosophy, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photo realistic renderings using Keyshot and Photoshop.
+* Worked as the sole industrial designer and design engineer to create a unique piece of wearable electronic accessory which charges your smartphone on the go.
+* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics. The hinge mechanism was patented in company's name and is considered a breakthrough invention.
+* Responsible for market and material research, branding the company's “stylish utility” design philosophy, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photorealistic renderings using Keyshot and Photoshop.
 * QBracelet is the recipient of Golden A' Design Award 2015 in Wearable Technologies Design Category.
 
-*December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wrist Band, Soda Stream Source, MoMA Exhibit piece, Sabi...)
+*December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wristband, Soda Stream Source, MoMA Exhibit piece, Sabi...)
 
 * Involved in every aspect of design process for various projects, especially Soda Stream Source and Jawbone Up Bracelet and Nivea packaging.
 * Responsible for all Solidworks modeling work of San Francisco studio.
@@ -72,7 +72,7 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
   * Absolute mastery in Solidworks, Keyshot and Hypershot.
   * Trained in 3D Studio Max, AutoCAD, Rhino.
 * Expert knowledge of Adobe Photoshop, Illustrator, InDesign.
-* Microsoft Word, Excel and Power Point, Keynote.
+* Microsoft Word, Excel and PowerPoint, Keynote.
 * Mold making, wood, metal and plaster shop education and experience, modeling experience from
 foam to CNC machine.
 * Owned and operated 3D printers.
@@ -85,7 +85,7 @@ foam to CNC machine.
 
 ## Related Skills
 * Excellent public speaking and presentation skills
-* Writing experience for public media, advertisement, screen
+* Writing experience for public media, advertising, screen
 * Dedicated problem solver for interpersonal or project related issues
 * Polymath nature
 * Avid researcher
