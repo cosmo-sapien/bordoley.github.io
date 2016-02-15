@@ -31,7 +31,7 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
 * Worked as the sole industrial designer and design engineer to create a unique piece of wearable electronic accessory which charges your smartphone on the go.
-* Engineered and designed a never-done-before piece of technology: built exterior and interior components and an innovative water-resistant hinge mechanism which can contain electronics. The hinge mechanism was patented in company's name and is considered a breakthrough invention.
+* Engineered and designed a never-done-before piece of technology: built exterior and interior components, seamlessly locking parts and an innovative water-resistant hinge mechanism which is able to house electronics. The hinge mechanism was patented in company's name and is considered a breakthrough invention.
 * Responsible for market and material research, branding the company's “stylish utility” design philosophy, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photorealistic renderings using Keyshot and Photoshop.
 * QBracelet is the recipient of Golden A' Design Award 2015 in Wearable Technologies Design Category.
 
