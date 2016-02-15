@@ -16,10 +16,10 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 ## Experience
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
-* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be exhibited in company's soon to be opened new showroom in Istanbul. 
+* Created sculptures, furniture and other marble objects as well as marble tiles and textures to be exhibited in company's latest showroom in Istanbul. 
 * These pieces are designed with mass and custom production in mind, as an exemplary display for the customers who are interested in identical or similar pieces for themselves. Utilized the client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry in order to give birth to moving marble art and design. 
-* Working with an ancient and historically used material such as marble in order to realize works which are relevant to our times and representative of present human experience was the main motivation. 
-* Pieces created were mostly inspired by the varying natural patterns, transparency and colors of different kinds of marbles. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, translucent semi-precious stone marble is illuminated from inside and likened to gemstones or crystals to point out the marvel of this natural metamorphic rock.
+* Working with an ancient and historically used material such as marble to realize works which are relevant to our times and representative of present human experience was the main motivation. 
+* Pieces created were mostly inspired by the varying natural patterns, transparency and colors of different kinds of stone. Special importance was given to create fluid and flowing details in some works in order to make the reflecting light dance in marble's glossy surface, making pieces come alive when the viewer moves around them. In some works, translucent semi-precious stone marble is illuminated from inside and likened to gemstones or crystals to point out the marvel of this natural metamorphic rock.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
