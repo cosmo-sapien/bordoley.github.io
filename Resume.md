@@ -1,4 +1,4 @@
-# Ece Deniz Toros 
+# Ece D. Toros 
 Email: ecedeniztoros@gmail.com  
 Website : https://ecedeniztoros.com
 
