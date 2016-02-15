@@ -6,7 +6,7 @@ Website : https://ecedeniztoros.com
 An industrial designer with burning passion for beauty, invention, poetic meaning and connectivity in all (she creates).
 
 * A visionary with experience delivering projects on time with exceeded expectations.
-* Experience at top design agencies and innovative companies.
+* Experience at top design agencies and innovation oriented companies.
 * Obsessed with creating magical products in both their esthetic and utilitarian value: from research, to creation, to presentation.
 * Deep understanding of product design's best practices.
 * Believes in the necessity of combining engineering, design, social sciences, philosophy, poetry and art in one's work and one's life.
@@ -17,9 +17,9 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
 * Created sculptures, furniture and other marble objects as well as marble tiles and textures to be exhibited in company's latest showroom in Istanbul. 
-* These pieces are designed with mass and custom production in mind. Client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry was utilized in order to give birth to moving marble art and design. 
-* Working with an ancient and historically used material such as marble to realize works which are relevant to our times and representative of present human experience was the main motivation. 
-* Inspired by the varying natural patterns, transparency and colors of different kinds of stone, works were generated to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble likened to gemstones or crystals.
+* Client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry was utilized to maximum extend and the pieces were designed with both mass and custom production in mind.
+* Working with an ancient and historically used material such as marble to realize works which are relevant to our times and representative of present human experience was the most attractive aspect of the project. 
+* Inspired by the varying natural patterns, transparency and colors of different kinds of stone, works were generated to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble from inside, likening it to gemstones or crystals.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
