@@ -17,7 +17,7 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
 * Created sculptures, furniture, marble objects, tiles and textures for company's latest showroom in Istanbul. 
-* Tools which the client owned such as a 7 axes CNC machine, client's access to many kinds of natural stones and experience in the industry were utilized to maximum extend and the pieces were designed with both mass and custom production in mind.
+* Tools which the client owned such as a 7 axes CNC machine, client's access to many kinds of natural stones and experience in the industry were utilized to maximum extent and the pieces were designed with both mass and custom production in mind.
 * Working with an ancient and historically used material such as marble to realize works that are relevant to our times and representative of present human experience was the most attractive aspect of the project. 
 * Inspired by the varying natural patterns, transparency and colors of different kinds of stone, works were generated to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble from inside, likening it to gemstones or crystals.
 * Responsible for conceptualizing, engineering, 3D modeling (in SolidWorks), creating photorealistic renderings of related work (in Keyshot), creating final boards (in Photoshop) as well as aiding the interior design team.
