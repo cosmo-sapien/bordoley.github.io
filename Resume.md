@@ -20,12 +20,12 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Client's extensive technological capabilities such as a 7 axes CNC machine, access to various kinds of different natural stones and experience in the industry were utilized to maximum extend and the pieces were designed with both mass and custom production in mind.
 * Working with an ancient and historically used material such as marble to realize works that are relevant to our times and representative of present human experience was the most attractive aspect of the project. 
 * Inspired by the varying natural patterns, transparency and colors of different kinds of stone, works were generated to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble from inside, likening it to gemstones or crystals.
-* Responsible for conceptualizing, engineering, 3D modeling, creating photo realistic renderings of related work and aiding the interior design team.
+* Responsible for conceptualizing, engineering, 3D modeling, creating photorealistic renderings of related work and aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
 * Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations, adopted to digital age. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. "The Doors of Perception" Collections which question whether the similarities are more present than contradictions between ancient/timeless, global/local, moving/still and macrocosm/microcosm are being time released.
-* Client wanted memorable, highly differentiating concepts to set their brand apart from the rest. Using unique and innovative materials, such as leather, while at the same time working with traditional materials crafted with latest technologies as well as generating a substantial design manifesto to generate interesting interviews for the media, their wish was fulfilled. Extensive color options for each door design were given in order to accomodate many interior design palettes.
+* Client wanted memorable, highly differentiating concepts to set their brand apart from the rest. Using unique and innovative materials, such as leather, while at the same time working with traditional materials crafted with latest technologies as well as generating a substantial design manifesto to generate interesting interviews for the media, their wish was fulfilled. Extensive color options for each door design were given in order to accommodate many interior design palettes.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photorealistic renderings of door concepts and giving interviews to the press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
@@ -76,11 +76,11 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Mold making, wood, metal and plaster shop education and experience, modeling experience from
 foam to CNC machine.
 * Owned and operated 3D printers.
-* Sketching, Drawing, Electronic Drawing, Technical Drawings, Painting
-* Interface Design
-* System Design
-* Graphic Design
-* Exhibition Design
+* Sketching, drawing, technical drawings, painting, digital drawing and digital painting
+* Interface design
+* System design
+* Graphic design
+* Exhibition design
 * Photography
 
 ## Related Skills
