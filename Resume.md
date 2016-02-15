@@ -19,19 +19,19 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Created sculptures, furniture, marble objects, tiles and textures for company's latest showroom in Istanbul. 
 * Tools which the client owned such as a 7 axes CNC machine, client's access to many kinds of natural stones and experience in the industry were utilized to maximum extent and the pieces were designed with both mass and custom production in mind.
 * Working with an ancient and historically used material such as marble to realize works that are relevant to our times and representative of present human experience was the most attractive aspect of the project. 
-* Inspired by the varying natural patterns, transparency and colors of different kinds of stone, works were generated to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble from inside, likening it to gemstones or crystals.
+* Inspired by the varying patterns, transparency and colors of different kinds of stone, works aim to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble from inside, likening it to gemstones and crystals.
 * Responsible for conceptualizing, engineering, 3D modeling (in SolidWorks), creating photorealistic renderings of related work (in Keyshot), creating final boards (in Photoshop) as well as aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
 * Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations, adopted to digital age. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. "The Doors of Perception" Collections which question whether the similarities are more present than contradictions between ancient/timeless, global/local, moving/still and macrocosm/microcosm are being time released.
-* Client wanted memorable, highly differentiating concepts to set their brand apart from the rest. Using unique and innovative materials, such as leather, while at the same time working with traditional materials crafted with latest technologies as well as generating a substantial design manifesto to generate interesting interviews for the media, their wish was fulfilled. Extensive color options for each door design were given in order to accommodate many interior design palettes.
+* Client wanted memorable, highly unique concepts to set their brand apart from the rest. Using innovative materials, such as leather, while at the same time working with traditional materials crafted with latest technologies as well as generating a substantial design manifesto to generate interesting interviews for the media, their wish was fulfilled. Extensive color options for each door design were given to accommodate many interior design palettes.
 * Responsible for conceptualizing, engineering, 3D modeling, creating photorealistic renderings of door concepts, creating presentation boards and giving interviews to the press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
 * Worked as the sole industrial designer and design engineer to create a unique piece of wearable electronic accessory which charges your smartphone on the go.
-* Engineered and designed a never-done-before piece of technology: built exterior and interior components, seamlessly locking parts and an innovative water-resistant hinge mechanism which is able to house electronics. The hinge mechanism was patented in company's name and is considered a breakthrough invention.
+* Engineered and designed a never-done-before piece of technology: built exterior and interior components, seamlessly locking parts and an innovative water-resistant hinge mechanism which is able to house electronics. Completed patent application of break-through hinge invention.
 * Responsible for market and material research, branding the company's “stylish utility” design philosophy, patent applications, prototyping (with MakerBot Replicator 3D printer), user testing and creating photorealistic renderings and presentation boards using Keyshot and Photoshop.
 * QBracelet is the recipient of Golden A' Design Award 2015 in Wearable Technologies Design Category.
 
@@ -47,7 +47,7 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 * Produced a highly praised design concept for BlackBerry smart phones.
 * Successfully analyzed the client’s expectations in the area of ‘design for travel’ as well as completing an extensive research on the current demands of the market.
 * Developed a wearable technology concept, updating a traditional travel element such as souvenir with near field communication technology.
-* Invented necessary system design for organizing data and experience.
+* Innovated necessary system design for organizing data and experience.
 * Designed authentic jewelry pieces for different cities, applying an extensive knowledge of culture and esthetics from 20+ countries visited as well as the data gathered from test users.
 
 *May, 2010 - Sept, 2010* : **Karim Rashid Inc., Industrial Design Intern** (Alessi, Tonelli, Bobble, USAcrylic, Larms, Berlin Nhow Music Hotel, MOD Design Museum Retrospective...)
