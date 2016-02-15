@@ -5,7 +5,7 @@ Website : https://ecedeniztoros.com
 ## Overview
 An industrial designer with burning passion for beauty, invention, poetic meaning and connectivity in all (she creates).
 
-* A visionary with experience delivering projects on time with exceeded expectations.
+* A visionary who sees opportunity in every challenge. 
 * Experience at top design agencies and innovation oriented companies.
 * Obsessed with creating magical products in both their esthetic and utilitarian value: from research, to creation, to presentation.
 * Deep understanding of product design's best practices.
@@ -17,16 +17,16 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *September, 2015 - Present* : **Faber Marble Inc., 3D Designer, 3D Sculptor** (Marble Products)
 
 * Created sculptures, furniture, marble objects, tiles and textures for company's latest showroom in Istanbul. 
-* Tools which the client owned such as a 7 axes CNC machine, client's access to many kinds of natural stones and experience in the industry were utilized to maximum extent and the pieces were designed with both mass and custom production in mind.
-* Working with an ancient and historically used material such as marble to realize works that are relevant to our times and representative of present human experience was the most attractive aspect of the project. 
+* Utilized client owned tools such as a 5 axes CNC machine, company's inventory of many kinds of natural stone and experience in industry for 3D sculpted pieces with both mass and custom production in mind.
+* Worked with a historically used material such as marble to realize works that are relevant to our times and representative of present human experience.
 * Inspired by the varying patterns, transparency and colors of different kinds of stone, works aim to showcase the natural marvel of this metamorphic rock. Light was used as a design element whether it would be dancing on the surface of fluid marble forms or it would be used to illuminate translucent semi-precious marble from inside, likening it to gemstones and crystals.
-* Responsible for conceptualizing, engineering, 3D modeling (in SolidWorks), creating photorealistic renderings of related work (in Keyshot), creating final boards (in Photoshop) as well as aiding the interior design team.
+* Responsible for conceptualizing, engineering, 3D modeling (SolidWorks), creating photorealistic renderings (Keyshot) and presentation boards (Photoshop) as well as aiding the interior design team.
 
 *October, 2014 - Present* : **Sur Doors, Lead Industrial Designer** (Security Doors)
 
 * Created multiple collections of doors inspired by the unifying elements in the design languages of various ancient civilizations, adopted to digital age. Aimed to open new horizons in the understanding of aesthetic phenomenon, each door tricks the viewer both optically and contextually. "The Doors of Perception" Collections which question whether the similarities are more present than contradictions between ancient/timeless, global/local, moving/still and macrocosm/microcosm are being time released.
 * Client wanted memorable, highly unique concepts to set their brand apart from the rest. Using innovative materials, such as leather, while at the same time working with traditional materials crafted with latest technologies as well as generating a substantial design manifesto to generate interesting interviews for the media, their wish was fulfilled. Extensive color options for each door design were given to accommodate many interior design palettes.
-* Responsible for conceptualizing, engineering, 3D modeling, creating photorealistic renderings of door concepts, creating presentation boards and giving interviews to the press about personal and project specific design philosophy.
+* Responsible for conceptualizing, engineering, 3D modeling, creating photorealistic renderings of door concepts and giving interviews to the press about personal and project specific design philosophy.
 
 *November, 2013 - August, 2014* : **Q Designs Inc., Lead Industrial Designer** (Wearable Technology)
 
@@ -38,25 +38,24 @@ An industrial designer with burning passion for beauty, invention, poetic meanin
 *December, 2011 - March, 2012*: **Fuseproject Inc., 3D Modeling Expert/Industrial Designer** (Herman Miller, Nivea, Jawbox, Up Wristband, Soda Stream Source, MoMA Exhibit piece, Sabi...)
 
 * Involved in every aspect of design process for various projects, especially Soda Stream Source and Jawbone Up Bracelet and Nivea packaging.
-* Responsible for all Solidworks modeling work of San Francisco studio.
-* Produced almost all rendering work of Nivea and Sabi.
+* Responsible for all Solidworks modeling work of San Francisco studio as well as hundreds of renders.
 * Architected a MoMA Exhibit for One Laptop Per Child Project.
 
 *September, 2010 - May, 2011* : **Research In Motion (BlackBerry), Innovation Concept Partner** (Wearable Technology)
 
 * Produced a highly praised design concept for BlackBerry smart phones.
-* Successfully analyzed the client’s expectations in the area of ‘design for travel’ as well as completing an extensive research on the current demands of the market.
-* Developed a wearable technology concept, updating a traditional travel element such as souvenir with near field communication technology.
+* Successfully analyzed client’s expectations around ‘design for travel’ theme as well as completing an extensive research on the current demands of the market.
+* Developed a wearable technology concept, updating a traditional travel element such as a souvenir with Near Field Communication technology.
 * Innovated necessary system design for organizing data and experience.
-* Designed authentic jewelry pieces for different cities, applying an extensive knowledge of culture and esthetics from 20+ countries visited as well as the data gathered from test users.
+* Designed authentic jewelry pieces for different cities, applying extensive personal knowledge of culture and esthetics from 20+ countries visited as well as the data gathered from test users.
 
 *May, 2010 - Sept, 2010* : **Karim Rashid Inc., Industrial Design Intern** (Alessi, Tonelli, Bobble, USAcrylic, Larms, Berlin Nhow Music Hotel, MOD Design Museum Retrospective...)
 
-* Mastered Solidworks surface modeling abilities as well as rendering programs such as Keyshot.
+* Mastered Solidworks surface modeling abilities along with rendering programs such as Keyshot.
 * Discovered all aspects of real life implementation of design education. 
 * Conceptualized, sketched, modelled, rendered and delivered a multitude of projects through the course of internship. 
 * Aided interior design work for Berlin Nhow Hotel and some other hospitality design work.
-* Curated Karim Rashid retrospective for the MOD Design Museum in Russia.
+* Curated Karim Rashid retrospective for MOD Design Museum in Russia.
 
 ## Education
 *2007 - 2011* : **BA, Industrial Design**; Carleton University (Ottawa, ON)
@@ -81,7 +80,6 @@ foam to CNC machine.
 * System design
 * Graphic design
 * Exhibition design
-* Photography
 
 ## Related Skills
 * Excellent public speaking and presentation skills
@@ -90,4 +88,3 @@ foam to CNC machine.
 * Polymath nature
 * Avid researcher
 * Art Snob
-
